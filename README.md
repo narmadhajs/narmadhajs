@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narmadha J S</h1>
 <h3 align="center" style="color:black">About Me as a Passionate Full Stack Developer: I am a passionate and dedicated Full Stack Developer with a strong enthusiasm for creating innovative and impactful web applications. With a solid foundation in both front-end and back-end development, I thrive on the challenge of turning ideas into fully functional and user-friendly digital solutions. Driven by my love for coding and problem-solving, I constantly seek out opportunities to expand my skills and stay up-to-date with the latest technologies and industry trends. I find joy in tackling complex challenges and finding creative solutions that deliver seamless user experiences. Throughout my journey, I have gained expertise in various front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like React.</h3>
-
+<img src="https://i.pinimg.com/736x/e6/c4/9b/e6c49bc69b43242bbec298c7b819bcec.jpg"></img>
 - 📫 How to reach me **narmadha.js@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

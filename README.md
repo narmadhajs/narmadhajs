@@ -19,4 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narmadhajs&show_icons=true&locale=en&layout=compact" alt="narmadhajs" /></p><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=narmadhajs&label=Profile%20Views&color=1&icon=9&pretty=true" />
 </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

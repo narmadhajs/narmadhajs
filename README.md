@@ -1,7 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2CThere%F0%9F%91%8B;I+am+Narmadha+JS;I+am+a+Student;I+am+a+Developer" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center" style="color:black">About Me as a Passionate Full Stack Developer: I am a passionate and dedicated Full Stack Developer with a strong enthusiasm for creating innovative and impactful web applications. With a solid foundation in both front-end and back-end development, I thrive on the challenge of turning ideas into fully functional and user-friendly digital solutions. Driven by my love for coding and problem-solving, I constantly seek out opportunities to expand my skills and stay up-to-date with the latest technologies and industry trends. I find joy in tackling complex challenges and finding creative solutions that deliver seamless user experiences. Throughout my journey, I have gained expertise in various front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like React.</h3>
+<h3 align="center" style="color:black">About Me as a Passionate Full Stack Developer: I am a passionate and dedicated Full Stack Developer with a strong enthusiasm for creating innovative and impactful web applications. With a solid foundation in both front-end and back-end development, I thrive on the challenge of turning ideas into fully functional and user-friendly digital solutions. Driven by my love for coding and problem-solving, I constantly seek out opportunities to expand my skills and stay up-to-date with the latest technologies and industry trends. I find joy in tackling complex challenges and finding creative solutions that deliver seamless user experiences. Throughout my journey, I have gained expertise in various front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like React.
+</h3>
+<a href="https://github-readme-stats.vercel.app/api?username=narmadhajs"></a>
 <img align="right" height="260px" width="260px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"></img>
 <h4>- 📫 How to reach me<a href="narmadha.js@gmail.com"> narmadha.js@gmail.com</a></h4>
 
@@ -19,5 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narmadhajs&show_icons=true&locale=en&layout=compact" alt="narmadhajs" /></p><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=narmadhajs&label=Profile%20Views&color=1&icon=9&pretty=true" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narmadhajs)](https://github.com/anuraghazra/github-readme-stats)
+
 

@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2CThere%F0%9F%91%8B;I+am+Narmadha+JS;I+am+a+Student;I+am+a+Developer" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center" style="color:black">About Me as a Passionate Full Stack Developer: I am a dedicated Full Stack Developer who loves working on complex web applications and has a desire to be always on the cutting edge of my profession. My back-end development and front-end design experience, let me embrace a challenge of finding the grain of an idea and developing a fully functioning convenient application. Inspired by my passion in coding and logical planning I never wait for work in this area but dedicate my time to study new technologies and tendencies actively. This applies to the fact that the work of a UI/UX designer implies facing various problems in the course of assignments and presenting unique ideas that would minimize numerous inconveniences for users. As part of my undertaking I have learned several tools used in the front end development, the most common being HTML, CSS, JavaScript and frameworks like ReacJS.
+<h3 align="center" style="color:black">About Me as a Passionate Full Stack Developer: I am a dedicated Full Stack Developer who loves working on complex web applications and has a desire to be always on the cutting edge of my profession. My back-end development and front-end design experience, let me embrace a challenge of finding the grain of an idea and developing a fully functioning convenient application. Inspired by my passion in coding and logical planning I never wait for work in this area but dedicate my time to study new technologies and tendencies actively.As part of my undertaking I have learned several tools used in the front end development, the most common being HTML, CSS, JavaScript and frameworks like ReacJS.
 </h3>
 <a href="https://github-readme-stats.vercel.app/api?username=narmadhajs"></a>
 <img align="right" height="260px" width="260px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"></img>
-<h4>- 📫 How to reach me<a href="narmadha.js@gmail.com"> narmadha.js@gmail.com</a></h4>
+<h4>- 📫 How to reach me<a href="narmadha.js@gmail.com"> narmadhajs25@gmail.com</a></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
